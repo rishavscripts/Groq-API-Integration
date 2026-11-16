@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # MediPulse Assist
 
 ### AI-Powered Medical Triage & Nearby Hospital Finder
@@ -651,7 +651,7 @@ permissions.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 **Built as a learning-focused full-stack project.**
 
 If you find the project useful, consider giving the repository a ⭐.
